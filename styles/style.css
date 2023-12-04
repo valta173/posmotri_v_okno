@@ -165,7 +165,7 @@ input {
   line-height: inherit;
   background-color: transparent;
   appearance: none;
-  inline-size: 211px;
+  inline-size: 225px;
 }
 
 .search-form__textfield:focus {
@@ -199,7 +199,7 @@ input {
 }
 
 .title {
-  padding-bottom: 24px;
+  padding-bottom: 22px;
   font-family: Oswald, sans-serif;
   font-weight: 700;
   font-size: 75px;
